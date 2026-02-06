@@ -1,4 +1,4 @@
-# mental-math
+# math-showdown
 
 
 Inspired by a Korean Variety Show: Elite League/University War (대학전쟁) Season 1's main match: 300
