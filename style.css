@@ -1,0 +1,68 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+input{
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  margin: auto;
+}
+
+button {
+  padding: 10px 45px;
+  align: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  background-color: white;
+  border-radius: 27px;
+}
+
+.Title{
+  padding-top: 19px;
+  font-size: 20px;
+  justify-content: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+p {
+  padding-left: 10px;
+  color: white;
+}
+
+.Rectangle{
+  background-color:orange;
+  width: 380px; 
+  height: 26px;
+  border-radius: 7px;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  stroke-width: 35px;
+  stroke: grey;
+}
+
+.Questions {
+  justify-content: center;
+  display: flex;
+  font-size: 18px;
+  margin: auto;
+}
+
+.QuestionC1, .QuestionC2, .QuestionC3, .QuestionC4, .QuestionC5 {
+  display: inline-block;
+  width: 15%;
+  float: left;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.button{
+  justify-content: center;
+  display: flex;
+  margin: 0 auto;
+  padding-top: 15px;
+}
